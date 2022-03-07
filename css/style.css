@@ -63,7 +63,7 @@ main {
     background-repeat: no-repeat;
 }
 
-.like {
+.like__button {
   display: inline-block ;
   position: relative;
   top: 18px;
