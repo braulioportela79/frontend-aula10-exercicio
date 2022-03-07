@@ -51,6 +51,7 @@ main {
 }
 
 .like {
+  display: inline-block ;
   position: relative;
   top: 18px;
   left: 24px;
@@ -126,4 +127,3 @@ footer {
   color: #fff9f9;
   align-items: center;
 }
-
