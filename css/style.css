@@ -63,7 +63,6 @@ main {
 
 .cardHeader {
   display: flex;
-  justify-content: center;
   align-items: center;
   flex-direction: column;
 }
@@ -84,7 +83,6 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
 }
 
 .cardDescription span {
